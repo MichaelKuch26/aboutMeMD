@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKuch26)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MichaelKuch26)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKuch26&show_icons=true)
