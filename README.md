@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKuch26&langs_count=8)](https://github.com/MichaelKuch26/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKuch26)](https://github.com/MichaelKuch26/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MichaelKuch26)
 
